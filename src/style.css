@@ -12,3 +12,8 @@ a {
 a:hover {
   color: aquamarine;
 }
+img {
+  margin: auto;
+  padding: 100px 50px;
+  border-radius: 10px;
+}
